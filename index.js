@@ -1,1 +1,1 @@
-ghgjhfghdgh
+console.log("Olá!");
