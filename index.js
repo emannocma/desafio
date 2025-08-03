@@ -2,8 +2,8 @@
 let teclado = require('prompt-sync')();
    
 //Entrada
-let nome = teclado("Informe o nome: ");
-let qtde_xp = teclado("Informe a quantidade de XP: ");
+let nome = teclado("Informe o nome do jogador: ");
+let qtde_xp = teclado("Informe a quantidade de XP recebidos: ");
 let nivel;
 
 // Processamento
